@@ -5,5 +5,6 @@ public class Foo {
     
     public String small="";
     public String big="";
+    public String medium="";
 
 }
